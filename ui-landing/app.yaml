@@ -13,4 +13,11 @@
 
 # [START gae_quickstart_yaml]
 runtime: nodejs10
+handlers:
+  - url: /
+    static_files: build/index.html
+    upload: build/index.html
+  - url: /(.*)$
+    static_files: build/\1
+    upload: build/(.*)
 # [END gae_quickstart_yaml]
