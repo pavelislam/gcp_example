@@ -1,0 +1,52 @@
+{
+    "main": {
+        "name": "Pavel Islam",
+        "occupation": "Software Developer",
+        "description": "This React application is an example usage of deploying a microservices based architecture using Google Cloud Platform",
+        "image": "",
+        "bio": "",
+        "email": "pavelislam86@gmail.com",
+        "phone": "555-555-5555",
+        "address": {
+            "street": "(Your Street)",
+            "city": "Vancouver",
+            "state": "(Your State)",
+            "zip": "(Your Zip/Postal Code)"
+        },
+        "website": "http://no-site.com",
+        "resumedownload": "http://no-site.com",
+        "social": [{
+                "name": "facebook",
+                "url": "http://no-site.com",
+                "className": "fa fa-facebook"
+            }, {
+                "name": "twitter",
+                "url": "http://no-site.com",
+                "className": "fa fa-twitter"
+            }, {
+                "name": "google-plus",
+                "url": "http://no-site.com",
+                "className": "fa fa-google-plus"
+            }, {
+                "name": "linkedin",
+                "url": "https://ca.linkedin.com/in/pavelislam",
+                "className": "fa fa-linkedin"
+            }, {
+                "name": "instagram",
+                "url": "http://no-site.com",
+                "className": "fa fa-instagram"
+            }, {
+                "name": "github",
+                "url": "http://no-site.com",
+                "className": "fa fa-github"
+            }, {
+                "name": "skype",
+                "url": "http://no-site.com",
+                "className": "fa fa-skype"
+            }
+        ]
+    },
+	"resume" : null,
+	"portfolio":null,
+	"testimonials":null
+}
